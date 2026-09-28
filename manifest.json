@@ -1,1601 +1,1307 @@
-{
-  "stand": "2026-09-28",
-  "basis_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/",
-  "produkte": [
-    {
-      "artikelnummer": "28237",
-      "produktname": "Gebrannte Mandeln 100g",
-      "kategorie": "Schokoladentaler",
-      "katalog_seite": 26,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28237.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28237.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28237.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28238",
-      "produktname": "ZB Piemonteser Haselnuss 100g",
-      "kategorie": "Schokoladentaler",
-      "katalog_seite": 26,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28238.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28238.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28238.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28239",
-      "produktname": "VM Pistazie 100g",
-      "kategorie": "Schokoladentaler",
-      "katalog_seite": 26,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28239.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28239.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28239.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28240",
-      "produktname": "Himbeer-Joghurt 80g",
-      "kategorie": "Schokoladentaler",
-      "katalog_seite": 26,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28240.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28240.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28240.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28001",
-      "produktname": "Feige",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28001.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28001.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28001.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28160",
-      "produktname": "Gefüllte Haselnussnougat",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28160.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28160.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28160.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28211",
-      "produktname": "Granola hausgemacht",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28211.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28211.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28211.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28156",
-      "produktname": "Graz Schokolade",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": "",
-      "jpg_url": "",
-      "png_url": "",
-      "webp_url": "",
-      "bildstatus": "fehlt",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28209",
-      "produktname": "Karamellisierte Haselnussblättchen",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28209.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28209.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28209.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28014",
-      "produktname": "Karamellisierter Sesam",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28014.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28014.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28014.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28008",
-      "produktname": "Knusperschokolade",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28008.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28008.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28008.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28012",
-      "produktname": "Orangen, Karamell, Rosmarin",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28012.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28012.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28012.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28002",
-      "produktname": "Piemonteser Haselnuss",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28002.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28002.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28002.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28009",
-      "produktname": "Pistazie",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28009.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28009.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28009.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28011",
-      "produktname": "Pumpkin Spice",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28011.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28011.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28011.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28159",
-      "produktname": "Schoko Banane",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28159.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28159.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28159.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28007",
-      "produktname": "Tonka",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28007.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28007.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28007.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28155",
-      "produktname": "Wien Schokolade",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": "",
-      "jpg_url": "",
-      "png_url": "",
-      "webp_url": "",
-      "bildstatus": "fehlt",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28010",
-      "produktname": "Wiener Melange",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 6,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28010.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28010.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28010.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28153",
-      "produktname": "Zimtapfel, Erdnuss, Feige",
-      "kategorie": "Tafelschokolade - Vollmilch",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28153.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28153.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28153.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28019",
-      "produktname": "Apfelstrudel",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28019.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28019.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28019.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28016",
-      "produktname": "Blütenzauber",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28016.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28016.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28016.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28133",
-      "produktname": "Buttermilch-Zitrone",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28133.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28133.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28133.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28129",
-      "produktname": "Cheesecake",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28129.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28129.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28129.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28026",
-      "produktname": "Erdbeer",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28026.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28026.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28026.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28214",
-      "produktname": "Germknödel",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28214.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28214.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28214.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28215",
-      "produktname": "Gofun Matcha",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 10,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28215.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28215.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28215.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28216",
-      "produktname": "Gofun Matcha/Himbeere",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 10,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28216.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28216.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28216.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28217",
-      "produktname": "Gofun Matcha/Mango",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 10,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28217.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28217.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28217.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28149",
-      "produktname": "Himbeer Blütengarten",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28149.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28149.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28149.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28025",
-      "produktname": "Himbeer Knallbrause",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28025.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28025.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28025.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28130",
-      "produktname": "Himbeer-Joghurt",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28130.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28130.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28130.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28212",
-      "produktname": "Himbeere Knusper",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28212.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28212.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28212.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28213",
-      "produktname": "Mango Lassi",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28213.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28213.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28213.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28146",
-      "produktname": "Marillenknödel",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28146.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28146.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28146.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28024",
-      "produktname": "Pistazien",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28024.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28024.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28024.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28165",
-      "produktname": "Schönbrunner Topfenstrudel",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28165.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28165.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28165.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28030",
-      "produktname": "Bergamotte (Ruby)",
-      "kategorie": "Tafelschokolade - Weiß",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28030.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28030.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28030.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28171",
-      "produktname": "Chili",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28171.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28171.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28171.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28038",
-      "produktname": "Fleur de Sel",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28038.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28038.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28038.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28174",
-      "produktname": "Himbeere",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28174.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28174.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28174.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28036",
-      "produktname": "Ingwer",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28036.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28036.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28036.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28169",
-      "produktname": "Kleiner Mocca",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28169.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28169.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28169.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28221",
-      "produktname": "Mandeln",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28221.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28221.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28221.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28040",
-      "produktname": "Mango",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28040.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28040.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28040.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28175",
-      "produktname": "Nusstraum",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28175.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28175.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28175.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28220",
-      "produktname": "Orange",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28220.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28220.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28220.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28167",
-      "produktname": "Orange, Zwetschke, Walnuss",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28167.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28167.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28167.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28037",
-      "produktname": "Piemonteser Haselnuss",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28037.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28037.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28037.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28042",
-      "produktname": "Protein",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28042.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28042.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28042.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28170",
-      "produktname": "Thymian, Karamell, Weichseln",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28170.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28170.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28170.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28041",
-      "produktname": "Traube Nuss",
-      "kategorie": "Tafelschokolade - Zartbitter",
-      "katalog_seite": 7,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28041.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28041.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28041.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28218",
-      "produktname": "Cashews & Cranberries",
-      "kategorie": "Tafelschokolade - Karamell",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28218.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28218.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28218.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28035",
-      "produktname": "Gebrannte Mandeln",
-      "kategorie": "Tafelschokolade - Karamell",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28035.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28035.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28035.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28032",
-      "produktname": "Gesalzenes Butterkaramell",
-      "kategorie": "Tafelschokolade - Karamell",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28032.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28032.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28032.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28033",
-      "produktname": "Karamellisierte Cashews",
-      "kategorie": "Tafelschokolade - Karamell",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28033.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28033.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28033.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28219",
-      "produktname": "Toffee & Karamell",
-      "kategorie": "Tafelschokolade - Karamell",
-      "katalog_seite": 9,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28219.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28219.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28219.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28058",
-      "produktname": "Bunte Schokolinsen, VM",
-      "kategorie": "Tafelschokolade - Kindersorten",
-      "katalog_seite": 25,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28058.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28058.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28058.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28059",
-      "produktname": "Bunte Zuckerperlen, VM",
-      "kategorie": "Tafelschokolade - Kindersorten",
-      "katalog_seite": 25,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28059.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28059.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28059.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28060",
-      "produktname": "Dreierlei Schokoperlen, VM",
-      "kategorie": "Tafelschokolade - Kindersorten",
-      "katalog_seite": 25,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28060.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28060.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28060.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28189",
-      "produktname": "Limette Knallbrause, Weiß",
-      "kategorie": "Tafelschokolade - Kindersorten",
-      "katalog_seite": 25,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28189.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28189.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28189.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28190",
-      "produktname": "Weiße Knusperschokolade",
-      "kategorie": "Tafelschokolade - Kindersorten",
-      "katalog_seite": 25,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28190.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28190.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28190.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28176",
-      "produktname": "VM mit Pistazie",
-      "kategorie": "Tafelschokolade - Zuckerfrei",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28176.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28176.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28176.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28177",
-      "produktname": "VM mit Piemonteser Haselnuss",
-      "kategorie": "Tafelschokolade - Zuckerfrei",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28177.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28177.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28177.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28178",
-      "produktname": "ZB mit Walnuss",
-      "kategorie": "Tafelschokolade - Zuckerfrei",
-      "katalog_seite": 8,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28178.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28178.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28178.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28045",
-      "produktname": "Alles Gute zum Geburtstag (ZB)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28045.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28045.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28045.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28044",
-      "produktname": "Alltagsheld (ZB)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28044.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28044.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28044.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28053",
-      "produktname": "Alltagsheldin (Ruby)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28053.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28053.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28053.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28182",
-      "produktname": "Be My Valentine (Ruby)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28182.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28182.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28182.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28050",
-      "produktname": "Danke Danke (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28050.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28050.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28050.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28049",
-      "produktname": "Danke Danke (ZB)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28049.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28049.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28049.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28180",
-      "produktname": "Eine Süße Botschaft (Weiß)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28180.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28180.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28180.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28052",
-      "produktname": "Hab' Dich Lieb (Ruby)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28052.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28052.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28052.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28046",
-      "produktname": "Happy Birthday (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28046.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28046.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28046.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28047",
-      "produktname": "Happy Birthday, Luftballons (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28047.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28047.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28047.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28179",
-      "produktname": "Herzlichen Glückwunsch (Weiß)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28179.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28179.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28179.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28051",
-      "produktname": "I Can't Stop Loving You (ZB)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28051.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28051.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28051.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28056",
-      "produktname": "I Love Mama (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28056.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28056.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28056.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28057",
-      "produktname": "I Love Papa (ZB)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28057.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28057.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28057.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28054",
-      "produktname": "Ich Liebe Dich (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28054.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28054.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28054.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28055",
-      "produktname": "Ich Liebe Dich (Weiß)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28055.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28055.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28055.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28181",
-      "produktname": "Lieblingsmensch (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 15,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28181.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28181.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28181.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28048",
-      "produktname": "You Are Simply Lovely (VM)",
-      "kategorie": "Besondere Anlässe / Sprüche",
-      "katalog_seite": 14,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28048.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28048.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28048.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28222",
-      "produktname": "Virunga - DR Kongo",
-      "kategorie": "Single Origin 50g",
-      "katalog_seite": 11,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28222.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28222.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28222.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28223",
-      "produktname": "Arhuaco Businchari - Kolumbien",
-      "kategorie": "Single Origin 50g",
-      "katalog_seite": 11,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28223.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28223.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28223.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28224",
-      "produktname": "Udzungwa - Tansania",
-      "kategorie": "Single Origin 50g",
-      "katalog_seite": 11,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28224.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28224.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28224.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28225",
-      "produktname": "Piura - Peru",
-      "kategorie": "Single Origin 50g",
-      "katalog_seite": 11,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28225.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28225.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28225.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28226",
-      "produktname": "Cusco Chuncho - Peru",
-      "kategorie": "Single Origin 50g",
-      "katalog_seite": 11,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28226.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28226.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28226.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28069",
-      "produktname": "Vanille",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28069.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28069.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28069.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28070",
-      "produktname": "VM",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28070.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28070.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28070.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28071",
-      "produktname": "ZB",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28071.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28071.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28071.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28072",
-      "produktname": "Karamell",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28072.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28072.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28072.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28073",
-      "produktname": "Ruby",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28073.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28073.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28073.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28074",
-      "produktname": "Haselnuss",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28074.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28074.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28074.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28075",
-      "produktname": "Chili ZB",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28075.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28075.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28075.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28076",
-      "produktname": "I Love You (Ruby mit Zuckerperlen)",
-      "kategorie": "Trinkschokolade am Stiel 45g",
-      "katalog_seite": 23,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28076.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28076.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28076.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28227",
-      "produktname": "ZB 70% mit Piemonteser Haselnuss",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28227.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28227.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28227.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28228",
-      "produktname": "ZB 54% mit Himbeeren",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28228.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28228.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28228.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28229",
-      "produktname": "Joghurt-Himbeer",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28229.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28229.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28229.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28230",
-      "produktname": "Apfelstrudel",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28230.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28230.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28230.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28231",
-      "produktname": "Karamell mit gebrannten Mandeln",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28231.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28231.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28231.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28232",
-      "produktname": "VM mit Pistazien",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28232.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28232.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28232.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28241",
-      "produktname": "Riegel-Mix bunt gemixt",
-      "kategorie": "Schokolade-Riegel 40g",
-      "katalog_seite": 12,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28241.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28241.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28241.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28079",
-      "produktname": "Karamell",
-      "kategorie": "Katzenzungen 50g",
-      "katalog_seite": 24,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28079.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28079.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28079.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28080",
-      "produktname": "ZB Haselnuss",
-      "kategorie": "Katzenzungen 50g",
-      "katalog_seite": 24,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28080.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28080.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28080.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28081",
-      "produktname": "VM Haselnuss",
-      "kategorie": "Katzenzungen 50g",
-      "katalog_seite": 24,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28081.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28081.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28081.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28082",
-      "produktname": "Dreierlei Schokoperlen, VM",
-      "kategorie": "Katzenzungen 50g",
-      "katalog_seite": 24,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28082.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28082.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28082.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28083",
-      "produktname": "Zuckerperlen, VM",
-      "kategorie": "Katzenzungen 50g",
-      "katalog_seite": 24,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28083.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28083.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28083.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28061",
-      "produktname": "Haselnuss",
-      "kategorie": "Premium Cremen 190-200g",
-      "katalog_seite": 13,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28061.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28061.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28061.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28064",
-      "produktname": "Pistacchio",
-      "kategorie": "Premium Cremen 190-200g",
-      "katalog_seite": 13,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28064.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28064.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28064.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28068",
-      "produktname": "Caramel mit Fleur de Sel",
-      "kategorie": "Premium Cremen 190-200g",
-      "katalog_seite": 13,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28068.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28068.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28068.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28142",
-      "produktname": "Salty Peanut",
-      "kategorie": "Premium Cremen 190-200g",
-      "katalog_seite": 13,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28142.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28142.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28142.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28233",
-      "produktname": "Bratapfel",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28233.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28233.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28233.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28114",
-      "produktname": "Bunte Zuckerperlen",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28114.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28114.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28114.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28106",
-      "produktname": "Ceylon Zimt Crispies, VM",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28106.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28106.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28106.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28184",
-      "produktname": "Gebrannte Mandeln Karamellschokolade",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28184.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28184.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28184.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28104",
-      "produktname": "Gesalzenes Butterkaramell",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28104.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28104.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28104.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28112",
-      "produktname": "Glühwein",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28112.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28112.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28112.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28183",
-      "produktname": "Hausgemachte Florentiner ZB",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28183.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28183.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28183.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28110",
-      "produktname": "Hausgemachte Spekulatius, VM",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28110.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28110.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28110.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28115",
-      "produktname": "Krampus - Orange, Zwetschke, Walnuss (ZB)",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28115.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28115.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28115.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28107",
-      "produktname": "Lebkuchen, VM",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28107.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28107.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28107.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28116",
-      "produktname": "Nikolo - Zimtapfel, Erdnuss, Feige (VM)",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28116.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28116.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28116.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28108",
-      "produktname": "Piemonteser Haselnuss, VM",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28108.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28108.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28108.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28111",
-      "produktname": "Vanille, geröstete Mandeln & Kardamom",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28111.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28111.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28111.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28109",
-      "produktname": "Vanillekipferl, VM",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28109.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28109.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28109.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28185",
-      "produktname": "Weihnachtliche Haselnuss",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28185.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28185.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28185.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28103",
-      "produktname": "ZB mit kandierter Orange",
-      "kategorie": "Weihnachten - Tafelschokolade 85g",
-      "katalog_seite": 16,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28103.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28103.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28103.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28235",
-      "produktname": "Trinkschokolade Lebkuchen",
-      "kategorie": "Weihnachten - Trinkschokolade 45g",
-      "katalog_seite": 18,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28235.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28235.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28235.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28234",
-      "produktname": "Trinkschokolade VM-Zimt",
-      "kategorie": "Weihnachten - Trinkschokolade 45g",
-      "katalog_seite": 18,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28234.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28234.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28234.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28236",
-      "produktname": "Trinkschokolade ZB/Orange",
-      "kategorie": "Weihnachten - Trinkschokolade 45g",
-      "katalog_seite": 18,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28236.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28236.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28236.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28118",
-      "produktname": "Weihnachtsduo Salzkaramell",
-      "kategorie": "Weihnachten - Figuren 60g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28118.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28118.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28118.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28117",
-      "produktname": "Weihnachtsduo Haselnuss-Nougat",
-      "kategorie": "Weihnachten - Figuren 60g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28117.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28117.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28117.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28187",
-      "produktname": "Gefüllte Nougatkugeln, VM",
-      "kategorie": "Weihnachten - Figuren 60g",
-      "katalog_seite": 17,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28187.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28187.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28187.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28120",
-      "produktname": "Weiß, gefüllt mit Marc de Champagne",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28120.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28120.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28120.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28121",
-      "produktname": "VM, gefüllt mit Marc de Champagne",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28121.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28121.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28121.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28122",
-      "produktname": "ZB, gefüllt mit Marc de Champagne",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28122.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28122.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28122.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28123",
-      "produktname": "Karamell, gefüllt mit gesalzenem Butterkaramell",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28123.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28123.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28123.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28125",
-      "produktname": "VM, gefüllt mit Haselnussnougat",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28125.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28125.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28125.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28127",
-      "produktname": "Ruby, gefüllt mit Mandelnougat",
-      "kategorie": "Glücksschweinchen 42g",
-      "katalog_seite": 19,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28127.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28127.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28127.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28140",
-      "produktname": "Pur",
-      "kategorie": "Lübecker Marzipanbrot 90g",
-      "katalog_seite": 28,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28140.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28140.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28140.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28141",
-      "produktname": "Pistazien",
-      "kategorie": "Lübecker Marzipanbrot 90g",
-      "katalog_seite": 28,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28141.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28141.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28141.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28147",
-      "produktname": "Orangen",
-      "kategorie": "Lübecker Marzipanbrot 90g",
-      "katalog_seite": 28,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28147.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28147.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28147.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28148",
-      "produktname": "Ingwer",
-      "kategorie": "Lübecker Marzipanbrot 90g",
-      "katalog_seite": 28,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28148.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28148.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28148.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    },
-    {
-      "artikelnummer": "28191",
-      "produktname": "Himbeer",
-      "kategorie": "Lübecker Marzipanbrot 90g",
-      "katalog_seite": 28,
-      "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28191.jpg",
-      "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28191.png",
-      "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28191.webp",
-      "bildstatus": "vorhanden",
-      "badge_im_bild": ""
-    }
-  ]
-}
+[
+  {
+    "artikelnummer": "28237",
+    "produktname": "Gebrannte Mandeln 100g",
+    "kategorie": "Schokoladentaler",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28237.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28237.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28237.webp"
+  },
+  {
+    "artikelnummer": "28238",
+    "produktname": "ZB Piemonteser Haselnuss 100g",
+    "kategorie": "Schokoladentaler",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28238.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28238.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28238.webp"
+  },
+  {
+    "artikelnummer": "28239",
+    "produktname": "VM Pistazie 100g",
+    "kategorie": "Schokoladentaler",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28239.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28239.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28239.webp"
+  },
+  {
+    "artikelnummer": "28240",
+    "produktname": "Himbeer-Joghurt 80g",
+    "kategorie": "Schokoladentaler",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28240.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28240.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28240.webp"
+  },
+  {
+    "artikelnummer": "28001",
+    "produktname": "Feige",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28001.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28001.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28001.webp"
+  },
+  {
+    "artikelnummer": "28160",
+    "produktname": "Gefüllte Haselnussnougat",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28160.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28160.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28160.webp"
+  },
+  {
+    "artikelnummer": "28211",
+    "produktname": "Granola hausgemacht",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28211.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28211.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28211.webp"
+  },
+  {
+    "artikelnummer": "28156",
+    "produktname": "Graz Schokolade",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "fehlt",
+    "png_url": "",
+    "jpg_url": "",
+    "webp_url": ""
+  },
+  {
+    "artikelnummer": "28209",
+    "produktname": "Karamellisierte Haselnussblättchen",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28209.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28209.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28209.webp"
+  },
+  {
+    "artikelnummer": "28014",
+    "produktname": "Karamellisierter Sesam",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28014.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28014.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28014.webp"
+  },
+  {
+    "artikelnummer": "28008",
+    "produktname": "Knusperschokolade",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28008.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28008.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28008.webp"
+  },
+  {
+    "artikelnummer": "28012",
+    "produktname": "Orangen, Karamell, Rosmarin",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28012.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28012.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28012.webp"
+  },
+  {
+    "artikelnummer": "28002",
+    "produktname": "Piemonteser Haselnuss",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28002.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28002.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28002.webp"
+  },
+  {
+    "artikelnummer": "28009",
+    "produktname": "Pistazie",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28009.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28009.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28009.webp"
+  },
+  {
+    "artikelnummer": "28011",
+    "produktname": "Pumpkin Spice",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28011.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28011.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28011.webp"
+  },
+  {
+    "artikelnummer": "28159",
+    "produktname": "Schoko Banane",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28159.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28159.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28159.webp"
+  },
+  {
+    "artikelnummer": "28007",
+    "produktname": "Tonka",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28007.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28007.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28007.webp"
+  },
+  {
+    "artikelnummer": "28155",
+    "produktname": "Wien Schokolade",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "fehlt",
+    "png_url": "",
+    "jpg_url": "",
+    "webp_url": ""
+  },
+  {
+    "artikelnummer": "28010",
+    "produktname": "Wiener Melange",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28010.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28010.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28010.webp"
+  },
+  {
+    "artikelnummer": "28153",
+    "produktname": "Zimtapfel, Erdnuss, Feige",
+    "kategorie": "Tafelschokolade - Vollmilch",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28153.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28153.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28153.webp"
+  },
+  {
+    "artikelnummer": "28019",
+    "produktname": "Apfelstrudel",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28019.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28019.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28019.webp"
+  },
+  {
+    "artikelnummer": "28016",
+    "produktname": "Blütenzauber",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28016.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28016.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28016.webp"
+  },
+  {
+    "artikelnummer": "28133",
+    "produktname": "Buttermilch-Zitrone",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28133.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28133.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28133.webp"
+  },
+  {
+    "artikelnummer": "28129",
+    "produktname": "Cheesecake",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28129.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28129.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28129.webp"
+  },
+  {
+    "artikelnummer": "28026",
+    "produktname": "Erdbeer",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28026.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28026.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28026.webp"
+  },
+  {
+    "artikelnummer": "28214",
+    "produktname": "Germknödel",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28214.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28214.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28214.webp"
+  },
+  {
+    "artikelnummer": "28215",
+    "produktname": "Gofun Matcha",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28215.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28215.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28215.webp"
+  },
+  {
+    "artikelnummer": "28216",
+    "produktname": "Gofun Matcha/Himbeere",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28216.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28216.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28216.webp"
+  },
+  {
+    "artikelnummer": "28217",
+    "produktname": "Gofun Matcha/Mango",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28217.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28217.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28217.webp"
+  },
+  {
+    "artikelnummer": "28149",
+    "produktname": "Himbeer Blütengarten",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28149.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28149.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28149.webp"
+  },
+  {
+    "artikelnummer": "28025",
+    "produktname": "Himbeer Knallbrause",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28025.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28025.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28025.webp"
+  },
+  {
+    "artikelnummer": "28130",
+    "produktname": "Himbeer-Joghurt",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28130.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28130.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28130.webp"
+  },
+  {
+    "artikelnummer": "28212",
+    "produktname": "Himbeere Knusper",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28212.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28212.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28212.webp"
+  },
+  {
+    "artikelnummer": "28213",
+    "produktname": "Mango Lassi",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28213.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28213.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28213.webp"
+  },
+  {
+    "artikelnummer": "28146",
+    "produktname": "Marillenknödel",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28146.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28146.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28146.webp"
+  },
+  {
+    "artikelnummer": "28024",
+    "produktname": "Pistazien",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28024.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28024.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28024.webp"
+  },
+  {
+    "artikelnummer": "28165",
+    "produktname": "Schönbrunner Topfenstrudel",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28165.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28165.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28165.webp"
+  },
+  {
+    "artikelnummer": "28030",
+    "produktname": "Bergamotte (Ruby)",
+    "kategorie": "Tafelschokolade - Weiß",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28030.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28030.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28030.webp"
+  },
+  {
+    "artikelnummer": "28171",
+    "produktname": "Chili",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28171.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28171.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28171.webp"
+  },
+  {
+    "artikelnummer": "28038",
+    "produktname": "Fleur de Sel",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28038.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28038.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28038.webp"
+  },
+  {
+    "artikelnummer": "28174",
+    "produktname": "Himbeere",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28174.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28174.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28174.webp"
+  },
+  {
+    "artikelnummer": "28036",
+    "produktname": "Ingwer",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28036.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28036.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28036.webp"
+  },
+  {
+    "artikelnummer": "28169",
+    "produktname": "Kleiner Mocca",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28169.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28169.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28169.webp"
+  },
+  {
+    "artikelnummer": "28221",
+    "produktname": "Mandeln",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28221.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28221.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28221.webp"
+  },
+  {
+    "artikelnummer": "28040",
+    "produktname": "Mango",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28040.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28040.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28040.webp"
+  },
+  {
+    "artikelnummer": "28175",
+    "produktname": "Nusstraum",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28175.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28175.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28175.webp"
+  },
+  {
+    "artikelnummer": "28220",
+    "produktname": "Orange",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28220.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28220.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28220.webp"
+  },
+  {
+    "artikelnummer": "28167",
+    "produktname": "Orange, Zwetschke, Walnuss",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28167.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28167.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28167.webp"
+  },
+  {
+    "artikelnummer": "28037",
+    "produktname": "Piemonteser Haselnuss",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28037.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28037.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28037.webp"
+  },
+  {
+    "artikelnummer": "28042",
+    "produktname": "Protein",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28042.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28042.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28042.webp"
+  },
+  {
+    "artikelnummer": "28170",
+    "produktname": "Thymian, Karamell, Weichseln",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28170.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28170.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28170.webp"
+  },
+  {
+    "artikelnummer": "28041",
+    "produktname": "Traube Nuss",
+    "kategorie": "Tafelschokolade - Zartbitter",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28041.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28041.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28041.webp"
+  },
+  {
+    "artikelnummer": "28218",
+    "produktname": "Cashews & Cranberries",
+    "kategorie": "Tafelschokolade - Karamell",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28218.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28218.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28218.webp"
+  },
+  {
+    "artikelnummer": "28035",
+    "produktname": "Gebrannte Mandeln",
+    "kategorie": "Tafelschokolade - Karamell",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28035.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28035.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28035.webp"
+  },
+  {
+    "artikelnummer": "28032",
+    "produktname": "Gesalzenes Butterkaramell",
+    "kategorie": "Tafelschokolade - Karamell",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28032.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28032.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28032.webp"
+  },
+  {
+    "artikelnummer": "28033",
+    "produktname": "Karamellisierte Cashews",
+    "kategorie": "Tafelschokolade - Karamell",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28033.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28033.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28033.webp"
+  },
+  {
+    "artikelnummer": "28219",
+    "produktname": "Toffee & Karamell",
+    "kategorie": "Tafelschokolade - Karamell",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28219.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28219.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28219.webp"
+  },
+  {
+    "artikelnummer": "28058",
+    "produktname": "Bunte Schokolinsen, VM",
+    "kategorie": "Tafelschokolade - Kindersorten",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28058.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28058.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28058.webp"
+  },
+  {
+    "artikelnummer": "28059",
+    "produktname": "Bunte Zuckerperlen, VM",
+    "kategorie": "Tafelschokolade - Kindersorten",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28059.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28059.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28059.webp"
+  },
+  {
+    "artikelnummer": "28060",
+    "produktname": "Dreierlei Schokoperlen, VM",
+    "kategorie": "Tafelschokolade - Kindersorten",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28060.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28060.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28060.webp"
+  },
+  {
+    "artikelnummer": "28189",
+    "produktname": "Limette Knallbrause, Weiß",
+    "kategorie": "Tafelschokolade - Kindersorten",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28189.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28189.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28189.webp"
+  },
+  {
+    "artikelnummer": "28190",
+    "produktname": "Weiße Knusperschokolade",
+    "kategorie": "Tafelschokolade - Kindersorten",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28190.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28190.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28190.webp"
+  },
+  {
+    "artikelnummer": "28176",
+    "produktname": "VM mit Pistazie",
+    "kategorie": "Tafelschokolade - Zuckerfrei",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28176.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28176.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28176.webp"
+  },
+  {
+    "artikelnummer": "28177",
+    "produktname": "VM mit Piemonteser Haselnuss",
+    "kategorie": "Tafelschokolade - Zuckerfrei",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28177.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28177.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28177.webp"
+  },
+  {
+    "artikelnummer": "28178",
+    "produktname": "ZB mit Walnuss",
+    "kategorie": "Tafelschokolade - Zuckerfrei",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28178.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28178.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28178.webp"
+  },
+  {
+    "artikelnummer": "28045",
+    "produktname": "Alles Gute zum Geburtstag (ZB)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28045.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28045.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28045.webp"
+  },
+  {
+    "artikelnummer": "28044",
+    "produktname": "Alltagsheld (ZB)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28044.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28044.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28044.webp"
+  },
+  {
+    "artikelnummer": "28053",
+    "produktname": "Alltagsheldin (Ruby)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28053.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28053.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28053.webp"
+  },
+  {
+    "artikelnummer": "28182",
+    "produktname": "Be My Valentine (Ruby)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28182.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28182.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28182.webp"
+  },
+  {
+    "artikelnummer": "28050",
+    "produktname": "Danke Danke (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28050.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28050.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28050.webp"
+  },
+  {
+    "artikelnummer": "28049",
+    "produktname": "Danke Danke (ZB)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28049.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28049.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28049.webp"
+  },
+  {
+    "artikelnummer": "28180",
+    "produktname": "Eine Süße Botschaft (Weiß)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28180.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28180.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28180.webp"
+  },
+  {
+    "artikelnummer": "28052",
+    "produktname": "Hab' Dich Lieb (Ruby)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28052.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28052.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28052.webp"
+  },
+  {
+    "artikelnummer": "28046",
+    "produktname": "Happy Birthday (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28046.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28046.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28046.webp"
+  },
+  {
+    "artikelnummer": "28047",
+    "produktname": "Happy Birthday, Luftballons (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28047.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28047.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28047.webp"
+  },
+  {
+    "artikelnummer": "28179",
+    "produktname": "Herzlichen Glückwunsch (Weiß)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28179.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28179.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28179.webp"
+  },
+  {
+    "artikelnummer": "28051",
+    "produktname": "I Can't Stop Loving You (ZB)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28051.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28051.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28051.webp"
+  },
+  {
+    "artikelnummer": "28056",
+    "produktname": "I Love Mama (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28056.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28056.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28056.webp"
+  },
+  {
+    "artikelnummer": "28057",
+    "produktname": "I Love Papa (ZB)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28057.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28057.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28057.webp"
+  },
+  {
+    "artikelnummer": "28054",
+    "produktname": "Ich Liebe Dich (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28054.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28054.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28054.webp"
+  },
+  {
+    "artikelnummer": "28055",
+    "produktname": "Ich Liebe Dich (Weiß)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28055.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28055.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28055.webp"
+  },
+  {
+    "artikelnummer": "28181",
+    "produktname": "Lieblingsmensch (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28181.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28181.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28181.webp"
+  },
+  {
+    "artikelnummer": "28048",
+    "produktname": "You Are Simply Lovely (VM)",
+    "kategorie": "Besondere Anlässe / Sprüche",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28048.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28048.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28048.webp"
+  },
+  {
+    "artikelnummer": "28222",
+    "produktname": "Virunga - DR Kongo",
+    "kategorie": "Single Origin 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28222.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28222.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28222.webp"
+  },
+  {
+    "artikelnummer": "28223",
+    "produktname": "Arhuaco Businchari - Kolumbien",
+    "kategorie": "Single Origin 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28223.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28223.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28223.webp"
+  },
+  {
+    "artikelnummer": "28224",
+    "produktname": "Udzungwa - Tansania",
+    "kategorie": "Single Origin 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28224.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28224.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28224.webp"
+  },
+  {
+    "artikelnummer": "28225",
+    "produktname": "Piura - Peru",
+    "kategorie": "Single Origin 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28225.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28225.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28225.webp"
+  },
+  {
+    "artikelnummer": "28226",
+    "produktname": "Cusco Chuncho - Peru",
+    "kategorie": "Single Origin 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28226.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28226.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28226.webp"
+  },
+  {
+    "artikelnummer": "28069",
+    "produktname": "Vanille",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28069.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28069.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28069.webp"
+  },
+  {
+    "artikelnummer": "28070",
+    "produktname": "VM",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28070.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28070.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28070.webp"
+  },
+  {
+    "artikelnummer": "28071",
+    "produktname": "ZB",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28071.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28071.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28071.webp"
+  },
+  {
+    "artikelnummer": "28072",
+    "produktname": "Karamell",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28072.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28072.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28072.webp"
+  },
+  {
+    "artikelnummer": "28073",
+    "produktname": "Ruby",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28073.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28073.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28073.webp"
+  },
+  {
+    "artikelnummer": "28074",
+    "produktname": "Haselnuss",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28074.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28074.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28074.webp"
+  },
+  {
+    "artikelnummer": "28075",
+    "produktname": "Chili ZB",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28075.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28075.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28075.webp"
+  },
+  {
+    "artikelnummer": "28076",
+    "produktname": "I Love You (Ruby mit Zuckerperlen)",
+    "kategorie": "Trinkschokolade am Stiel 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28076.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28076.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28076.webp"
+  },
+  {
+    "artikelnummer": "28227",
+    "produktname": "ZB 70% mit Piemonteser Haselnuss",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28227.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28227.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28227.webp"
+  },
+  {
+    "artikelnummer": "28228",
+    "produktname": "ZB 54% mit Himbeeren",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28228.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28228.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28228.webp"
+  },
+  {
+    "artikelnummer": "28229",
+    "produktname": "Joghurt-Himbeer",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28229.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28229.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28229.webp"
+  },
+  {
+    "artikelnummer": "28230",
+    "produktname": "Apfelstrudel",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28230.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28230.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28230.webp"
+  },
+  {
+    "artikelnummer": "28231",
+    "produktname": "Karamell mit gebrannten Mandeln",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28231.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28231.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28231.webp"
+  },
+  {
+    "artikelnummer": "28232",
+    "produktname": "VM mit Pistazien",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28232.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28232.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28232.webp"
+  },
+  {
+    "artikelnummer": "28241",
+    "produktname": "Riegel-Mix bunt gemixt",
+    "kategorie": "Schokolade-Riegel 40g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28241.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28241.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28241.webp"
+  },
+  {
+    "artikelnummer": "28079",
+    "produktname": "Karamell",
+    "kategorie": "Katzenzungen 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28079.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28079.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28079.webp"
+  },
+  {
+    "artikelnummer": "28080",
+    "produktname": "ZB Haselnuss",
+    "kategorie": "Katzenzungen 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28080.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28080.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28080.webp"
+  },
+  {
+    "artikelnummer": "28081",
+    "produktname": "VM Haselnuss",
+    "kategorie": "Katzenzungen 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28081.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28081.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28081.webp"
+  },
+  {
+    "artikelnummer": "28082",
+    "produktname": "Dreierlei Schokoperlen, VM",
+    "kategorie": "Katzenzungen 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28082.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28082.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28082.webp"
+  },
+  {
+    "artikelnummer": "28083",
+    "produktname": "Zuckerperlen, VM",
+    "kategorie": "Katzenzungen 50g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28083.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28083.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28083.webp"
+  },
+  {
+    "artikelnummer": "28061",
+    "produktname": "Haselnuss",
+    "kategorie": "Premium Cremen 190-200g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28061.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28061.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28061.webp"
+  },
+  {
+    "artikelnummer": "28064",
+    "produktname": "Pistacchio",
+    "kategorie": "Premium Cremen 190-200g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28064.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28064.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28064.webp"
+  },
+  {
+    "artikelnummer": "28068",
+    "produktname": "Caramel mit Fleur de Sel",
+    "kategorie": "Premium Cremen 190-200g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28068.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28068.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28068.webp"
+  },
+  {
+    "artikelnummer": "28142",
+    "produktname": "Salty Peanut",
+    "kategorie": "Premium Cremen 190-200g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28142.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28142.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28142.webp"
+  },
+  {
+    "artikelnummer": "28233",
+    "produktname": "Bratapfel",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28233.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28233.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28233.webp"
+  },
+  {
+    "artikelnummer": "28114",
+    "produktname": "Bunte Zuckerperlen",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28114.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28114.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28114.webp"
+  },
+  {
+    "artikelnummer": "28106",
+    "produktname": "Ceylon Zimt Crispies, VM",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28106.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28106.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28106.webp"
+  },
+  {
+    "artikelnummer": "28184",
+    "produktname": "Gebrannte Mandeln Karamellschokolade",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28184.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28184.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28184.webp"
+  },
+  {
+    "artikelnummer": "28104",
+    "produktname": "Gesalzenes Butterkaramell",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28104.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28104.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28104.webp"
+  },
+  {
+    "artikelnummer": "28112",
+    "produktname": "Glühwein",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28112.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28112.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28112.webp"
+  },
+  {
+    "artikelnummer": "28183",
+    "produktname": "Hausgemachte Florentiner ZB",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28183.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28183.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28183.webp"
+  },
+  {
+    "artikelnummer": "28110",
+    "produktname": "Hausgemachte Spekulatius, VM",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28110.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28110.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28110.webp"
+  },
+  {
+    "artikelnummer": "28115",
+    "produktname": "Krampus - Orange, Zwetschke, Walnuss (ZB)",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28115.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28115.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28115.webp"
+  },
+  {
+    "artikelnummer": "28107",
+    "produktname": "Lebkuchen, VM",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28107.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28107.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28107.webp"
+  },
+  {
+    "artikelnummer": "28116",
+    "produktname": "Nikolo - Zimtapfel, Erdnuss, Feige (VM)",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28116.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28116.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28116.webp"
+  },
+  {
+    "artikelnummer": "28108",
+    "produktname": "Piemonteser Haselnuss, VM",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28108.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28108.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28108.webp"
+  },
+  {
+    "artikelnummer": "28111",
+    "produktname": "Vanille, geröstete Mandeln & Kardamom",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28111.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28111.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28111.webp"
+  },
+  {
+    "artikelnummer": "28109",
+    "produktname": "Vanillekipferl, VM",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28109.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28109.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28109.webp"
+  },
+  {
+    "artikelnummer": "28185",
+    "produktname": "Weihnachtliche Haselnuss",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28185.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28185.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28185.webp"
+  },
+  {
+    "artikelnummer": "28103",
+    "produktname": "ZB mit kandierter Orange",
+    "kategorie": "Weihnachten - Tafelschokolade 85g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28103.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28103.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28103.webp"
+  },
+  {
+    "artikelnummer": "28235",
+    "produktname": "Trinkschokolade Lebkuchen",
+    "kategorie": "Weihnachten - Trinkschokolade 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28235.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28235.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28235.webp"
+  },
+  {
+    "artikelnummer": "28234",
+    "produktname": "Trinkschokolade VM-Zimt",
+    "kategorie": "Weihnachten - Trinkschokolade 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28234.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28234.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28234.webp"
+  },
+  {
+    "artikelnummer": "28236",
+    "produktname": "Trinkschokolade ZB/Orange",
+    "kategorie": "Weihnachten - Trinkschokolade 45g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28236.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28236.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28236.webp"
+  },
+  {
+    "artikelnummer": "28118",
+    "produktname": "Weihnachtsduo Salzkaramell",
+    "kategorie": "Weihnachten - Figuren 60g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28118.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28118.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28118.webp"
+  },
+  {
+    "artikelnummer": "28117",
+    "produktname": "Weihnachtsduo Haselnuss-Nougat",
+    "kategorie": "Weihnachten - Figuren 60g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28117.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28117.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28117.webp"
+  },
+  {
+    "artikelnummer": "28187",
+    "produktname": "Gefüllte Nougatkugeln, VM",
+    "kategorie": "Weihnachten - Figuren 60g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28187.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28187.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28187.webp"
+  },
+  {
+    "artikelnummer": "28120",
+    "produktname": "Weiß, gefüllt mit Marc de Champagne",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28120.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28120.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28120.webp"
+  },
+  {
+    "artikelnummer": "28121",
+    "produktname": "VM, gefüllt mit Marc de Champagne",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28121.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28121.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28121.webp"
+  },
+  {
+    "artikelnummer": "28122",
+    "produktname": "ZB, gefüllt mit Marc de Champagne",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28122.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28122.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28122.webp"
+  },
+  {
+    "artikelnummer": "28123",
+    "produktname": "Karamell, gefüllt mit gesalzenem Butterkaramell",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28123.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28123.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28123.webp"
+  },
+  {
+    "artikelnummer": "28125",
+    "produktname": "VM, gefüllt mit Haselnussnougat",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28125.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28125.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28125.webp"
+  },
+  {
+    "artikelnummer": "28127",
+    "produktname": "Ruby, gefüllt mit Mandelnougat",
+    "kategorie": "Glücksschweinchen 42g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28127.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28127.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28127.webp"
+  },
+  {
+    "artikelnummer": "28140",
+    "produktname": "Pur",
+    "kategorie": "Lübecker Marzipanbrot 90g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28140.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28140.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28140.webp"
+  },
+  {
+    "artikelnummer": "28141",
+    "produktname": "Pistazien",
+    "kategorie": "Lübecker Marzipanbrot 90g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28141.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28141.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28141.webp"
+  },
+  {
+    "artikelnummer": "28147",
+    "produktname": "Orangen",
+    "kategorie": "Lübecker Marzipanbrot 90g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28147.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28147.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28147.webp"
+  },
+  {
+    "artikelnummer": "28148",
+    "produktname": "Ingwer",
+    "kategorie": "Lübecker Marzipanbrot 90g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28148.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28148.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28148.webp"
+  },
+  {
+    "artikelnummer": "28191",
+    "produktname": "Himbeer",
+    "kategorie": "Lübecker Marzipanbrot 90g",
+    "status": "vorhanden",
+    "png_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/png/28191.png",
+    "jpg_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/jpg/28191.jpg",
+    "webp_url": "https://raw.githubusercontent.com/Catventurous/28lots-produktbilder/main/webp/28191.webp"
+  }
+]
