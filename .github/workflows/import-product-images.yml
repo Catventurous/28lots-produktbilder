@@ -1,0 +1,34 @@
+name: Import 28LOTS product images
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-product-images.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import-images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download product image archive
+        run: |
+          curl -L --fail --retry 3 'https://uca5ea1693a55a214276583ac7eb.dl.dropboxusercontent.com/cd/0/get/DJAzdRSNW-KlHLacUXcy7RGSKW5HK0AM3vWXRaMOprNy2xAfnOV8UmjiKqdO7SmN94CWqLGDGTFRUzWCakbKgZpPDpElqEItNi8mdR2gVW7SOhy9J0LoavJJ2Sn1XiR7ZaalOtFgmaK2gC4WcWv4wzUE_NRxbmMs9WgaUoSfI3hR2Q/file?c_luid=ae54a08a' -o /tmp/28lots-images.zip
+
+      - name: Extract archive
+        run: |
+          rm -rf /tmp/28lots-import
+          mkdir -p /tmp/28lots-import
+          unzip -q /tmp/28lots-images.zip -d /tmp/28lots-import
+          cp -a /tmp/28lots-import/28lots-produktbilder/. .
+
+      - name: Commit product images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add png jpg webp manifest.csv manifest.json README.md
+          git commit -m "Add 28LOTS product image archive"
+          git push origin HEAD:main
